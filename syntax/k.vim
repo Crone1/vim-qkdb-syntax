@@ -111,9 +111,11 @@ syn keyword kPrimitive in
 syn keyword kPrimitive insert
 syn keyword kPrimitive last
 syn keyword kPrimitive like
+syn keyword kPrimitive list
 syn keyword kPrimitive log
 syn keyword kPrimitive max
 syn keyword kPrimitive min
+syn keyword kPrimitive plist
 syn keyword kPrimitive prd
 syn keyword kPrimitive reval
 syn keyword kPrimitive select
@@ -124,6 +126,7 @@ syn keyword kPrimitive ss
 syn keyword kPrimitive sum
 syn keyword kPrimitive svar
 syn keyword kPrimitive tan
+syn keyword kPrimitive txf
 syn keyword kPrimitive update
 syn keyword kPrimitive var
 syn keyword kPrimitive wavg

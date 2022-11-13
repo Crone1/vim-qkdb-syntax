@@ -76,6 +76,7 @@ syn keyword qFunction inter
 syn keyword qFunction inv
 syn keyword qFunction key
 syn keyword qFunction keys
+syn keyword qFunction list
 syn keyword qFunction lj
 syn keyword qFunction ljf
 syn keyword qFunction load
@@ -105,6 +106,7 @@ syn keyword qFunction over
 syn keyword qFunction parse
 syn keyword qFunction peach
 syn keyword qFunction pj
+syn keyword qFunction plist
 syn keyword qFunction prds
 syn keyword qFunction prev
 syn keyword qFunction prior
@@ -138,6 +140,7 @@ syn keyword qFunction system
 syn keyword qFunction tables
 syn keyword qFunction til
 syn keyword qFunction trim
+syn keyword qFunction txf
 syn keyword qFunction type
 syn keyword qFunction uj
 syn keyword qFunction ujf
